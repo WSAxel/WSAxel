@@ -2,7 +2,8 @@
 **This page contains an overview of some small personal projects as well as a few others from some of my school subjects**
 
 ## Digital tools and languages 
-
+[<img align="left" width="22px" src="https://user-images.githubusercontent.com/44602947/107549616-51856b80-6bd0-11eb-9585-5e095e3ce51f.png">]
+**sadsadsadas**
 <!--
 **WSAxel/WSAxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
