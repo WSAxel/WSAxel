@@ -1,5 +1,5 @@
 # My Projects 
-** This page contains an overview of some small personal projects as well as a few others from some of my school subjects**
+**This page contains an overview of some small personal projects as well as a few others from some of my school subjects**
 <!--
 **WSAxel/WSAxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
