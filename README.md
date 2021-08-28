@@ -22,8 +22,18 @@
 <img align="left" width="25px" src="https://user-images.githubusercontent.com/44602947/107548479-028b0680-6bcf-11eb-8928-d4a65ad74ac0.png">
 <img align="left" width="25px" src="https://yt3.ggpht.com/ytc/AKedOLRrH_wT7RwStCNum43bUnEavYBJNISAWhmMJgJWOg=s900-c-k-c0x00ffffff-no-rj">
 <img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_for_Cura_Software.png/220px-Logo_for_Cura_Software.png">
-[<img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/250px-Brackets_Icon.svg.png">
+<img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/250px-Brackets_Icon.svg.png">
 
+## School subjects included on my github
+| Subject | Code |
+| :---: | :---: |
+| Webprogrammering | DATA1700 |
+| Testing av Programvare | ADTS2310 |
+| Programmering | DAPE 1400 |
+| Webutvikling og inkluderende design| DAFE 1200 |
+
+### Testing av programvare
+(https://github.com/WSAxel/SoapUI)
 <!-- [<img align="left" width="25px" src="">] -->
 <!-- 
 **WSAxel/WSAxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
