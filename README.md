@@ -1,5 +1,7 @@
 # My Projects 
 **This page contains an overview of some small personal projects as well as a few small projects from some of my school subjects**
+
+
 ##Here are my most used languages by what is posted on my github
 
 
