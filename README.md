@@ -1,6 +1,8 @@
 # My Projects 
 **This page contains an overview of some small personal projects as well as a few small projects from some of my school subjects**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WSAxel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Digital tools and languages 
 [<img align="left" width="25px" src="https://user-images.githubusercontent.com/44602947/107549616-51856b80-6bd0-11eb-9585-5e095e3ce51f.png">]
 [<img align="left" width="25px" src="https://user-images.githubusercontent.com/44602947/107549672-67932c00-6bd0-11eb-937c-86850cdc9928.png">]
