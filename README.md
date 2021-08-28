@@ -37,20 +37,21 @@
 - [Part of the semester assignment](https://github.com/WSAxel/SoapUI)
 
 
-###Webprogrammering
+### Webprogrammering
+- [Preparing for exam](https://github.com/WSAxel/RegistrerEksempel)
 - [First mandatory assignment](https://github.com/WSAxel/WebOblig1)
 - [Second mandatory assignment](https://github.com/WSAxel/weboblig2)
 - [Third mandatory assignment](https://github.com/WSAxel/weboblig3)
 
 
-###Webutvikling og inkluderende design
+### Webutvikling og inkluderende design
 - [Final assignment](https://github.com/wo0tzZ/finalProsjekt)
 
 
 
 
 
-###Personal projects
+### Personal projects
 - [Weather web app](https://github.com/WSAxel/weather-website)
 - [Financial markets indicator and stock lister](https://github.com/WSAxel/financial_markets_tracker)
 <!-- [<img align="left" width="25px" src="">] -->
