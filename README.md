@@ -29,11 +29,28 @@
 | :---: | :---: |
 | Webprogrammering | DATA1700 |
 | Testing av Programvare | ADTS2310 |
-| Programmering | DAPE 1400 |
 | Webutvikling og inkluderende design| DAFE 1200 |
 
 ### Testing av programvare
-- [En del av semesteroppgaven](https://github.com/WSAxel/SoapUI)
+- [Part of the semester assignment](https://github.com/WSAxel/SoapUI)
+
+
+###Webprogrammering
+- [First mandatory assignment](https://github.com/WSAxel/WebOblig1)
+- [Second mandatory assignment](https://github.com/WSAxel/weboblig2)
+- [Third mandatory assignment](https://github.com/WSAxel/weboblig3)
+
+
+###Webutvikling og inkluderende design
+- [Final assignment](https://github.com/wo0tzZ/finalProsjekt)
+
+
+
+
+
+###Personal projects
+- [Weather web app](https://github.com/WSAxel/weather-website)
+- [Financial markets indicator and stock lister](https://github.com/WSAxel/financial_markets_tracker)
 <!-- [<img align="left" width="25px" src="">] -->
 <!-- 
 **WSAxel/WSAxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
