@@ -33,7 +33,7 @@
 | Webutvikling og inkluderende design| DAFE 1200 |
 
 ### Testing av programvare
-(https://github.com/WSAxel/SoapUI)
+- [En del av semesteroppgaven](https://github.com/WSAxel/SoapUI)
 <!-- [<img align="left" width="25px" src="">] -->
 <!-- 
 **WSAxel/WSAxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
