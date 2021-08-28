@@ -23,6 +23,7 @@
 <img align="left" width="25px" src="https://yt3.ggpht.com/ytc/AKedOLRrH_wT7RwStCNum43bUnEavYBJNISAWhmMJgJWOg=s900-c-k-c0x00ffffff-no-rj">
 <img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_for_Cura_Software.png/220px-Logo_for_Cura_Software.png">
 <img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/250px-Brackets_Icon.svg.png">
+<img align="left" width="25px" src="https://www.accentsconagua.com/img/images_5/getting-started-with-chartjs-introduction.jpg">
 
 <br>
 
