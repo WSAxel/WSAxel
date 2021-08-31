@@ -27,7 +27,7 @@
 
 <br>
 
-### Personal projects
+## Personal projects
 - [Weather web app](https://github.com/WSAxel/weather-website)
 - [Financial markets indicator and stock lister](https://github.com/WSAxel/financial_markets_tracker)
 
