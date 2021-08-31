@@ -27,6 +27,12 @@
 
 <br>
 
+### Personal projects
+- [Weather web app](https://github.com/WSAxel/weather-website)
+- [Financial markets indicator and stock lister](https://github.com/WSAxel/financial_markets_tracker)
+
+<br>
+
 ## School subjects included on my github
 | Subject | Code |
 | :---: | :---: |
@@ -52,9 +58,7 @@
 
 
 
-### Personal projects
-- [Weather web app](https://github.com/WSAxel/weather-website)
-- [Financial markets indicator and stock lister](https://github.com/WSAxel/financial_markets_tracker)
+
 <!-- [<img align="left" width="25px" src="">] -->
 <!-- 
 **WSAxel/WSAxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
