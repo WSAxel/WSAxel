@@ -38,7 +38,8 @@
 | :---: | :---: |
 | Webprogrammering | DATA1700 |
 | Testing av Programvare | ADTS2310 |
-| Webutvikling og inkluderende design| DAFE 1200 |
+| Webutvikling og inkluderende design| DAFE 1200 
+| Webapplikasjoner | IPTE3200 |
 
 ### Webapplikasjoner
 - [First mandatory assignment](https://github.com/WSAxel/Gruppeoppgave1_Webapplikasjoner)
