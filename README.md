@@ -40,6 +40,9 @@
 | Testing av Programvare | ADTS2310 |
 | Webutvikling og inkluderende design| DAFE 1200 |
 
+### Webapplikasjoner
+- [First mandatory assignment](https://github.com/WSAxel/Gruppeoppgave1_Webapplikasjoner)
+
 ### Testing av programvare
 - [Part of the semester assignment](https://github.com/WSAxel/SoapUI)
 
